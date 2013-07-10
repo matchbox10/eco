@@ -1,0 +1,57 @@
+/* This file will hold styles that are loaded using the same media query as the narrow grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the normal and widescreen layouts. You may override these styles in the normal 
+ *  and widescreen CSS files as appropriate. */
+ 
+#zone-preface {
+	/*display: block !important;* /* displays slideshow on non mobile screens */
+}
+/*.flex-control-nav  {
+	display: none;
+}
+ #transbody {
+	display: block;
+	bottom: 0%;
+}
+#transpager {
+	display: none;
+}
+#trbody {
+	display: block;
+	bottom: -5%;
+	zoom:.72;
+}
+#trlink  {
+	display: none;
+}
+.flex-control-nav  *{*/
+	/*top: 85%;
+	zoom: .80;*/
+	/*display: none;
+}
+#trbody p { font-size:0.8em; }*/
+
+/* Styles for the Contact (webform) */
+/* ### alpha default narrow ### */
+.submitted {display:none;}
+
+#contact_us .float_clr {
+	clear: both;
+}
+#contact_us .webform label {
+	position: relative;
+}
+#contact_us .webform  select {
+   margin-left: 0px;
+}
+#contact_us .webform input {
+	margin-left: 0px;
+}
+
+/*
+#contact_us .webform #edit-submit {
+	margin-left: 0;
+}
+*/
+/* ### alpha default narrow end ### */
+/* Styles for the Contact (webform) END */

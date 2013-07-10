@@ -1,0 +1,38 @@
+/* This file will hold styles that are loaded using the same media query as the wide grid. */
+
+#zone-preface {
+	/*display: block !important;*/ /* displays slideshow on non mobile screens */
+}
+
+#zone-preface  .region-preface-first-inner{ /* displays slideshow on non mobile screens */
+	/*position: relative;
+	width: 1160px;*/
+	/*margin-left:-580px;*/ /* half of the total desired width of the div */
+	/*left: 50% !important;
+	max-height: 100%;*/	
+}
+/*.flex-control-nav  {
+	display: block;
+	top: 93.66666666%;
+	zoom: 1.5;
+}
+#transbody {
+	display: block;
+	bottom: 7.9%;
+}
+#transpager {
+	display: block;
+	height:8%;
+	bottom: 0%;
+}
+#trlink  *{
+	display: block;
+	top: 85%;
+	zoom: .80;
+}
+#trbody {
+	display: block;
+	bottom: 8%;
+	zoom:.72;
+}
+#trbody p { font-size:1.9em; }*/

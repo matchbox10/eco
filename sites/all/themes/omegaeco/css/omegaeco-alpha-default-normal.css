@@ -1,0 +1,31 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+/* If you are using the default media queries provided by Omega, these styles will also
+ *  apply to the widescreen layout unless they are overridden by the widescreen styles. */
+ 
+#zone-preface {
+	/*display: block !important; /* displays slideshow on non mobile screens */
+}
+/*.flex-control-nav  {
+	display: block;
+}
+#transbody {
+	display: block;
+	bottom: 8%;
+}
+#transpager {
+	display: block;
+	bottom: 0%;
+}
+#trbody {
+	display: block;
+	bottom: 2%;
+	zoom: 1;
+}
+#trlink  *{
+	display: block;
+	top: 80%;
+}
+.flex-control-nav  *{
+	display: inline;
+}
+#trbody p { font-size:0.95em; }*/
